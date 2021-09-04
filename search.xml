@@ -20,8 +20,9 @@
   </entry>
   <entry>
     <title>Hello Github</title>
-    <url>/2021/09/04/my-second-%20blog/</url>
-    <content><![CDATA[<p>测试</p>
+    <url>/2021/09/04/my-first-blog/</url>
+    <content><![CDATA[<p>本博客依托于github代码托管平台，采用hexo博客模板。</p>
+<p>我是夜雨憨憨，一名大一新生，我的兴趣爱好是听音乐，读书，研究代码和玩游戏，我最喜欢的游戏有原神，lol，gal，csgo等等。</p>
 ]]></content>
       <tags>
         <tag>杂谈</tag>
@@ -29,9 +30,8 @@
   </entry>
   <entry>
     <title>Hello Github</title>
-    <url>/2021/09/04/my-first-blog/</url>
-    <content><![CDATA[<p>本博客依托于github代码托管平台，采用hexo博客模板。</p>
-<p>我是夜雨憨憨，一名大一新生，我的兴趣爱好是听音乐，读书，研究代码和玩游戏，我最喜欢的游戏有原神，lol，gal，csgo等等。</p>
+    <url>/2021/09/04/my-second-%20blog/</url>
+    <content><![CDATA[<p>测试</p>
 ]]></content>
       <tags>
         <tag>杂谈</tag>
